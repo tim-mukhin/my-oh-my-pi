@@ -1,0 +1,8 @@
+{
+	"name": "tab-title",
+	"version": "0.1.0",
+	"description": "Terminal tab title with status icon and LLM-generated session label.",
+	"pi": {
+		"extensions": ["./index.ts"]
+	}
+}
