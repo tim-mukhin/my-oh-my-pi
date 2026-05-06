@@ -7,8 +7,8 @@ By analogy with [`my-claude-code`](../my-claude-code/), [`my-opencode`](../my-op
 ## What you get
 
 ```
-⋯ 🧠 Анализ сессий       <- agent is working
-✳ 🧠 Анализ сессий       <- idle, ready for input
+⋯ 🧠 Session analysis    <- agent is working
+✳ 🧠 Session analysis    <- idle, ready for input
 ⋯ π · second_brain       <- right after start, before the label is generated
 ```
 
